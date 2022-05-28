@@ -1,0 +1,10 @@
+version:     "0000--28-May-2022"
+copyright:   "2022"
+author:      "C. BinKadal"
+title:       "MEMOS"
+githublink:  "https://github.com/yforku/memos/"
+encoding:    UTF-8
+markdown:    kramdown
+input:       GFM
+hard_wrap:   false
+github:      [metadata]
