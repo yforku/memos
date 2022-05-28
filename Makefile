@@ -1,5 +1,11 @@
-# Mon 31 Jan 2022 15:12:28 WIB
+# REV01: Sat 28 May 2022 16:30:00 WIB
+# START: Wed 07 Jul 2021 21:00:00 WIB
 
-ALL:
-	@echo "XYZZY: Nothing Happens"
+all: .sitemap
+	@echo "xyzzy... plugh"
+
+.sitemap: _site/sitemap.xml
+	@echo "Fixing sitemap.xml"
+	@sed -i -e 's/http:\/\/localhost:5002/https:\/\/memos.vlsm.org/g' _site/sitemap.xml
+	@touch .sitemap
 

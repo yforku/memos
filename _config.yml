@@ -1,10 +1,17 @@
-version:     "0001--28-May-2022"
-copyright:   "2022"
-author:      "C. BinKadal"
-title:       "MEMOS"
-githublink:  "https://github.com/yforku/memos/"
-encoding:    UTF-8
-markdown:    kramdown
-input:       GFM
-hard_wrap:   false
-github:      [metadata]
+version:          "0001--28-May-2022"
+copyright:        "2022"
+author:           "C. BinKadal"
+address:          "Sendirian, Berhad."
+title:            "MEMOS.vlsm.org"
+githublink:       "https://github.com/yforku/memos/"
+weburl:           "https://memos.vlsm.org/"
+google_analytics: UA-89852122-3
+encoding:         UTF-8
+markdown:         kramdown
+input:            GFM
+hard_wrap:        false
+sitemap:          true
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+github:           [metadata]
