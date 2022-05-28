@@ -1,17 +1,48 @@
-version:          "0003a--28-May-2022"
-copyright:        "2022"
-author:           "C. BinKadal"
-address:          "Sendirian, Berhad."
-title:            "MEMOS.vlsm.org"
-githublink:       "https://github.com/yforku/memos/"
-weburl:           "https://memos.vlsm.org/"
-google_analytics: UA-89852122-3
-encoding:         UTF-8
-markdown:         kramdown
-input:            GFM
-hard_wrap:        false
-sitemap:          true
+version:          "0004--28-May-2022"
+copyright:        "2021-2022"
+description:
+  This is a
+  GitHub Page Template
+disclaimer:
+  I have spoken.
+keywords:         "jekyll, testing"
+navbarlinks:
+- navbar:         "Home"
+  link:           "/"
+- navbar:         "Links"
+  link:           "/LINKS/"
+- navbar:         "Tips"
+  link:           "/TIPS/"
+- navbar:         "Zip File"
+  link:           "/template.zip"
+- navbar:         "TarBall"
+  link:           "/template.tar.bz2"
+- navbar:         "GitHub"
+  link:           "https://github.com/yforku/memos/"
+- navbar:         "Listing"
+  link:           "/000.html"
+- navbar:         "About"
+  link:           "/ABOUT/"
+- navbar:         "GitHub Page"
+  link:           "https://template.vlsm.org/"
+title:            "GitHub Page Template"
+lang:             "en-US"
+author:           "J. Walker"
+address:          "Box 7, Mawitaan, Bangalla."
+sitemap:          "true"
+markdown:         "kramdown"
+urlweb:           "https://memos.vlsm.org/"
+urlcontact:       "TBA"
+urlgithub:        "https://github.com/yforku/memos/"
+google_analytics: "G-KYFCYENZ4E"
 plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-github:           [metadata]
+- jekyll-sitemap
+- jekyll-seo-tag
+defaults:
+- scope:
+    path:    ""
+  values:
+    layout:  "default"
+github:
+- metadata
+

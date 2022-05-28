@@ -1,19 +1,21 @@
 ---
-permalink: TIPS/
+permalink: /TIPS/
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
-<br><br>
-[HOME]({{ site.baseurl }}/) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[LINKS]({{ site.baseurl }}/LINKS/) ---
-[TIPS]({{ site.baseurl }}/TIPS/) ---
-[GITHUB]({{ site.githublink }})
-<br>
-<hr>
-TBA
-<br>
-<hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
-<hr>
-<br>
+
+# TIPS
+
+4. [Four](https://en.wikipedia.org/wiki/4)<br>
+Powder donut cheesecake wafer.
+I love sugar plum brownie tart apple pie macaroon.
+Donut wafer dragée pudding.
+
+5. [Five](https://en.wikipedia.org/wiki/5)<br>
+Soufflé I love gingerbread marshmallow cake I love applicake.
+Sugar plum I love jelly beans powder jelly beans.
+Ice cream ice cream cupcake liquorice I love.
+
+6. [Six](https://en.wikipedia.org/wiki/6)<br>
+Pastry sweet roll applicake bear claw donut sweet roll.
+Chocolate carrot cake I love sesame snaps.
+Pudding pudding chocolate cake croissant donut pastry pie cupcake cookie.
 

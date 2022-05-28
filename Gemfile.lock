@@ -258,6 +258,7 @@ PLATFORMS
 DEPENDENCIES
   faraday-retry
   github-pages
+  jekyll-seo-tag
   jekyll-sitemap
 
 BUNDLED WITH
