@@ -1,8 +1,8 @@
 version:          "0004--28-May-2022"
 copyright:        "2021-2022"
 description:
-  This is a
-  GitHub Page Template
+  This is MEMOS.vlsm.org using a
+  GitHub Page Template.
 disclaimer:
   I have spoken.
 keywords:         "jekyll, testing"
@@ -24,7 +24,7 @@ navbarlinks:
 - navbar:         "About"
   link:           "/ABOUT/"
 - navbar:         "GitHub Page"
-  link:           "https://template.vlsm.org/"
+  link:           "https://memos.vlsm.org/"
 title:            "GitHub Page Template"
 lang:             "en-US"
 author:           "J. Walker"
