@@ -1,8 +1,10 @@
-version:          "0004b--28-May-2022"
+version:          "0005--30-May-2022"
 copyright:        "2021-2022"
 description:
   This is MEMOS.vlsm.org using a
-  GitHub Page Template.
+  GitHub Page Template description.
+  See also tagline.
+tagline:          "This is MEMO.vlsm.org tagline"
 disclaimer:
   I have spoken.
 keywords:         "jekyll, testing"
@@ -38,6 +40,7 @@ google_analytics: "G-KYFCYENZ4E"
 plugins:
 - jekyll-sitemap
 - jekyll-seo-tag
+- jekyll-paginate
 defaults:
 - scope:
     path:    ""

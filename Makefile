@@ -1,7 +1,7 @@
+# REV08: Mon 30 May 2022 08:00:00 WIB
 # REV07: Tue 03 Aug 2021 09:00:00 WIB
 # REV06: Fri 23 Jul 2021 10:00:00 WIB
 # REV05: Mon 19 Jul 2021 13:00:00 WIB
-# REV04: Sun 04 Jul 2021 13:00:00 WIB
 # REV02: Tue 15 Jun 2021 11:00:00 WIB
 # START: Mon 15 Feb 2021 09:00:00 WIB
 
@@ -18,7 +18,8 @@ ALL: 000.md .sitemap
 
 .sitemap: _site/sitemap.xml
 	@echo "Fixing sitemap.xml"
-	@sed -i -e 's/http:\/\/localhost:5002/https:\/\/template.vlsm.org/g' _site/sitemap.xml
+	@sed -i -e 's/http:\/\/localhost:5002/https:\/\/memo.vlsm.org/g' _site/sitemap.xml
+	@sed -i -e 's/http:\/\/localhost:5002/https:\/\/memo.vlsm.org/g' _site/index.html
 	@touch .sitemap
 
 .phony: ALL

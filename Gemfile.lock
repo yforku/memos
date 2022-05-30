@@ -258,6 +258,7 @@ PLATFORMS
 DEPENDENCIES
   faraday-retry
   github-pages
+  jekyll-paginate
   jekyll-seo-tag
   jekyll-sitemap
 
