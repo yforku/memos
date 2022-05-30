@@ -1,5 +1,6 @@
-# template.vlsm.org
+# memos.vlsm.org
 
-This is a GitHub Page template on GitHub.com.
-Fill free to clone/fork/hijack/whatever it!
+Ever did something and forgot how -- some years later?
+Or months later? Or even weeks later?
+Therefore, keep a memo about it!
 
