@@ -1,4 +1,4 @@
-version:          "0005c--30-May-2022"
+version:          "0005d--30-May-2022"
 copyright:        "2022-2022"
 description:
   Ever did something and forgot how years later?
@@ -12,7 +12,7 @@ navbarlinks:
 - navbar:         "Home"
   link:           "/"
 - navbar:         "TOC"
-  link:           "/TOC/"
+  link:           "/002.html"
 - navbar:         "Listing"
   link:           "/000.html"
 - navbar:         "About"
