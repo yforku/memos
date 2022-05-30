@@ -11,6 +11,7 @@ I am {{ site.author }}, {{ site.address }}, and this is the Way!
 
 <br id="idx01">
 ## Recent Update
+* [Template](0/002.md)
 * [TOC: Table of Contents](0/001.md)
 
 <br id="idx02">
