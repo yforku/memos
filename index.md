@@ -12,7 +12,7 @@ I am {{ site.author }}, {{ site.address }}, and this is the Way!
 
 <br id="idx01">
 ## Recent Update
-* [005](005.md)
+* [Ubuntu - Wayland - NVIDIA - FireFox -- Bazinga!](005.md)
 * [KDENLIVE - UBUNTU - Icons Missing](004.md)
 * [TOC: Table of Contents - Subjective Order](003.md)
 * [TOC: Table of Contents - Chronological Order](002.md)
