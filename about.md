@@ -26,5 +26,4 @@ I am C. BinKadal, Sendirian, Berhad, and this is the Way!
 {% endfor %}
 </li></ul><br>
 
-# This is the Way!
 
