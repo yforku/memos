@@ -1,29 +1,16 @@
 ---
 ---
 
-<br>
-This [GitHub Page](https://pages.github.com/) is hosted at [GitHub.com]({{ site.urlgithub }}).
-You can download the source either as a
-[ZIP]({{ site.baseurl }}/template.zip) file or a
-[TARBALL]({{ site.baseurl }}/template.tar.bz2) file.
-File [LISTINGS]({{ site.baseurl }}/000.html) are also available.
+<br id="idx00">
+Ever did something and forgot how some years later?
+Or months later? Or even weeks later? 
+Therefore, keep a memo about it!
+I am {{ site.author }}, {{ site.address }}, and this is the Way!
+* [TOC: Table of Contents](0/001.md)
+* [Recent Update](#idx01)
 
-I am {{ site.author }}, {{ site.address }}
+<br id="idx01">
+## Recent Update
+* [TOC: Table of Contents](0/001.md)
 
-<br>
-## Table Example
-
-| [HOME]({{ site.baseurl }}/) | [LISTINGS]({{ site.baseurl }}/000.html) | [LINKS]({{ site.baseurl }}/LINKS/) |
-| [TIPS]({{ site.baseurl }}/TIPS/) | [TARBALL]({{ site.baseurl }}/template.tar.bz2) | [ZIP File]({{ site.baseurl }}/template.zip) |
-| [GitHub]({{ site.urlgithub }}) | [ABOUT]({{ site.baseurl }}/ABOUT/) | [WEB]({{ site.urlweb }}) |
-
-<br>
-## More Links
-
-* [GitHub Page with no Jekyll Theme](https://doit.vlsm.org/001.md)
-* [Installing Jekyll on a VirtualBox](https://doit.vlsm.org/005.md)
-* [This is how me do it records](https://doit.vlsm.org/)
-
-<br>
-This is the Way!
-
+<br id="idx02">

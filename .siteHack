@@ -1,0 +1,10 @@
+#!/bin/bash
+# START: Mon 30 May 2022 10:00
+
+[ -z $1 ] && { echo "No fix"; exit 1; }
+
+for II in _site/*.xml _site/*.html _site/*/*.html ; do
+  echo "fixing $1 to ${II}..."
+  sed -i -e 's/http:\/\/localhost:5002/https:\/\/memos.vlsm.org/g' $II
+done
+

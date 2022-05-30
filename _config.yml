@@ -1,36 +1,30 @@
-version:          "0005--30-May-2022"
-copyright:        "2021-2022"
+version:          "0005a--30-May-2022"
+copyright:        "2022-2022"
 description:
-  This is MEMOS.vlsm.org using a
-  GitHub Page Template description.
-  See also tagline.
-tagline:          "This is MEMO.vlsm.org tagline"
+  Ever did something and forgot how years later?
+  Or months later? Or even weeks later?
+  Therefore, keep a memo about it!
+tagline:          "Keep a memo before you forget about it!"
 disclaimer:
   I have spoken.
 keywords:         "jekyll, testing"
 navbarlinks:
 - navbar:         "Home"
   link:           "/"
-- navbar:         "Links"
-  link:           "/LINKS/"
-- navbar:         "Tips"
-  link:           "/TIPS/"
-- navbar:         "Zip File"
-  link:           "/template.zip"
-- navbar:         "TarBall"
-  link:           "/template.tar.bz2"
-- navbar:         "GitHub"
-  link:           "https://github.com/yforku/memos/"
+- navbar:         "TOC"
+  link:           "/TOC/"
 - navbar:         "Listing"
   link:           "/000.html"
 - navbar:         "About"
   link:           "/ABOUT/"
+- navbar:         "GitHub"
+  link:           "https://github.com/yforku/memos/"
 - navbar:         "GitHub Page"
   link:           "https://memos.vlsm.org/"
 title:            "MEMOS.vlsm.org"
 lang:             "en-US"
-author:           "J. Walker"
-address:          "Box 7, Mawitaan, Bangalla."
+author:           "C. BinKadal"
+address:          "Sendirian, Berhad"
 sitemap:          "true"
 markdown:         "kramdown"
 urlweb:           "https://memos.vlsm.org/"
