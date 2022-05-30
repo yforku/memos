@@ -12,9 +12,8 @@ I am {{ site.author }}, {{ site.address }}, and this is the Way!
 
 <br id="idx01">
 ## Recent Update
-* [KDENLIVE](004.md)
+* [KDENLIVE - UBUNTU - Icons Missing](004.md)
 * [TOC: Table of Contents - Subjective Order](003.md)
 * [TOC: Table of Contents - Chronological Order](002.md)
 * [Template](001.md)
 
-<br id="idx02">
