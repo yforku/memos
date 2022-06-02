@@ -1,5 +1,8 @@
-version:          "007a--31-May-2022"
+version:          "008--02-Jun-2022"
 copyright:        "2022-2022"
+title:            "MEMOS.vlsm.org"
+author:           "C. BinKadal"
+address:          "Sendirian, Berhad"
 description:
   Ever did something and forgot how years later?
   Or months later? Or even weeks later?
@@ -21,10 +24,7 @@ navbarlinks:
   link:           "https://github.com/yforku/memos/"
 - navbar:         "GitHub Page"
   link:           "https://memos.vlsm.org/"
-title:            "MEMOS.vlsm.org"
 lang:             "en-US"
-author:           "C. BinKadal"
-address:          "Sendirian, Berhad"
 sitemap:          "true"
 markdown:         "kramdown"
 urlweb:           "https://memos.vlsm.org/"
