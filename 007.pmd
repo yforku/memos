@@ -7,15 +7,16 @@ tagline:          "TBA"
 ---
 
 <br id="idx00">
-# TBA
+# File version-check.sh [(Download)](assets/scripts/version-check.sh)
+
+```
+(> assets/scripts/version-check.sh <)
+```
+
+<br id="idx01">
+# File SBU-check.sh [(Download)](assets/scripts/SBU-check.sh)
 
 ```
 (> assets/scripts/SBU-check.sh <)
 ```
 
-<br id="idx01">
-# TBA
-
-```
-(> assets/scripts/version-check.sh <)
-```
