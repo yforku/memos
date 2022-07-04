@@ -1,5 +1,5 @@
 #!/bin/bash
-# VER06: Mon 04 Jul 2022 13:30
+# VER06: Mon 04 Jul 2022 14:00
 # VER05: Tue 03 May 2022 18:30
 # Adapted from LFS:  © 1999-2022 Gerard Beekmans
 # Modified by C. BinKadal. See file LICENCE-MIT.
@@ -13,7 +13,7 @@ time {
     pushd  $LFS/sources/
     rm -rf $BINUTILS/
     echo  "tar..."
-    tar    xf $TALBALL
+    tar    xf $TARBALL
     cd     $BINUTILS/
     mkdir -pv build/
     cd     build/
