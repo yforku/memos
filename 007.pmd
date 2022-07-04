@@ -9,12 +9,13 @@ tagline:          "TBA"
 <br id="idx00">
 # TBA
 
-<br>
-### index.md
-
 ```
-{% raw %}
-(> index.md <)
-{% endraw %}
+(> assets/scripts/SBU-check.sh <)
 ```
 
+<br id="idx01">
+# TBA
+
+```
+(> assets/scripts/version-check.sh <)
+```
