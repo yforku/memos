@@ -1,20 +1,25 @@
 ---
-title:  "TBA"
+title:  "LFS related scripts"
 description:
-  TBA
-  TBA.
+  These are Linux From Scratch (LFS) related 
+  scripts.
 tagline:          "TBA"
 ---
 
+<br>
+# {{ page.title }}
+
+{{ page.description }}
+
 <br id="idx00">
-# File version-check.sh ([Download](assets/scripts/version-check.sh))
+## File version-check.sh ([Download](assets/scripts/version-check.sh))
 
 ```
 (> assets/scripts/version-check.sh <)
 ```
 
 <br id="idx01">
-# File SBU-check.sh ([Download](assets/scripts/SBU-check.sh))
+## File SBU-check.sh ([Download](assets/scripts/SBU-check.sh))
 
 ```
 (> assets/scripts/SBU-check.sh <)
