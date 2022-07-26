@@ -15,7 +15,7 @@ I am {{ site.author }}, {{ site.address }}, and this is the Way!
 
 <br id="idx02">
 ## Recent Update
-* [Quran](008.md)
+* [Quran and Islam](008.md)
 * [LFS related scripts](007.md)
 * [MSDT: CVE-2022-30190 Vulnerability (Follina)](006.md)
 * [Ubuntu - Wayland - NVIDIA - FireFox -- Bazinga!](005.md)
